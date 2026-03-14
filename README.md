@@ -19,3 +19,5 @@ This project analyzes air pollution levels across cities using Power BI.
 
 ### Map Visualization
 ![Map](map.png)
+
+<img src="Dashboard_image.png" width="450"> <img src="map.png" width="450">
