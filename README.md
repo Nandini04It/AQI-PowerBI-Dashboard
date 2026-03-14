@@ -44,10 +44,7 @@ The goal of this project was to explore how pollution levels vary across locatio
 ### Full Dashboard
 ![Dashboard](Dashboard_image.png)
 
-### Map Visualization
-![Map](map.png)
-
-<img src="Dashboard_image.png" width="450"> <img src="map.png" width="450">
+<img src="donut.png" width="450"> <img src="map.png" width="450">
 
 ## Conclusion
 
