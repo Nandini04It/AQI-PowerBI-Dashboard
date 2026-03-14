@@ -44,8 +44,6 @@ The goal of this project was to explore how pollution levels vary across locatio
 ### Full Dashboard
 ![Dashboard](Dashboard_image.png)
 
-<img src="donut.png" width="400"> <img src="map.png" width="400">
-
 ## Conclusion
 
 The AQI dashboard helps visualize air pollution patterns and provides useful insights into environmental conditions across cities. Such analysis can support awareness, research, and decision-making for improving air quality.
