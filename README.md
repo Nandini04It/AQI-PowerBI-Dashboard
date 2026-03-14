@@ -1,5 +1,6 @@
 ## Air Quality Index (AQI) Analysis Dashboard
 
+
 # Project Overview
 
 Air pollution has become one of the most serious environmental issues in many cities. Monitoring and understanding air quality trends is essential for improving public health and making informed policy decisions.
@@ -13,19 +14,29 @@ Air pollution affects millions of people every day. Cities with rapid industrial
 The goal of this project was to explore how pollution levels vary across locations and time and to present the findings through an interactive data visualization dashboard.
 
 # Using Power BI, the data was transformed into meaningful visuals that highlight:
+
 -Cities with the worst air quality
+
 -Trends of AQI over time
+
 -Distribution of major pollutants
 
 ## Tools & Technologies Used
+
 -Power BI – Data visualization and dashboard creation
+
 -Microsoft Excel – Data storage and preprocessing
+
 -Data Visualization Techniques – Charts, maps, KPIs, and filters
 
 ## Key Insights
+
 -Identifies cities with the highest pollution levels
+
 -Shows AQI trends over time
+
 -Compares major pollutants such as PM2.5, PM10, and NO₂
+
 -Helps understand air quality distribution across regions
 
 ## Dashboard Preview
