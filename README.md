@@ -15,7 +15,7 @@ This project analyzes air pollution levels across cities using Power BI.
 ## Dashboard Preview
 
 ### Full Dashboard
-![Dashboard](AQI Dashboard Image.png)
+![Dashboard](Dashboard_image.png)
 
 ### Map Visualization
 ![Map](map.png)
